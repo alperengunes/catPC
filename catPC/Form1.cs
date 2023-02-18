@@ -81,7 +81,8 @@ namespace catPc
                 if (keyboardStatus == "Enabled")
                 {
                     showWindow.modeOn();
-                    if(vkCode.ToString() == "32")
+                    string v = vkCode.ToString();
+                    if (v == "32" || v == "13")
                     {
                         MessageBox.Show("Cat Hack Attempt Blocked !");
                     }

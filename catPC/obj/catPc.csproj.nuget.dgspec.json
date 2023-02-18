@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ronni\\source\\repos\\catPc\\catPc\\catPc.csproj": {}
+    "C:\\Users\\ronni\\Documents\\GitHub\\catPC\\catPc\\catPc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ronni\\source\\repos\\catPc\\catPc\\catPc.csproj": {
+    "C:\\Users\\ronni\\Documents\\GitHub\\catPC\\catPc\\catPc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ronni\\source\\repos\\catPc\\catPc\\catPc.csproj",
+        "projectUniqueName": "C:\\Users\\ronni\\Documents\\GitHub\\catPC\\catPc\\catPc.csproj",
         "projectName": "catPc",
-        "projectPath": "C:\\Users\\ronni\\source\\repos\\catPc\\catPc\\catPc.csproj",
+        "projectPath": "C:\\Users\\ronni\\Documents\\GitHub\\catPC\\catPc\\catPc.csproj",
         "packagesPath": "C:\\Users\\ronni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ronni\\source\\repos\\catPc\\catPc\\obj\\",
+        "outputPath": "C:\\Users\\ronni\\Documents\\GitHub\\catPC\\catPc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
