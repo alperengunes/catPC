@@ -31,7 +31,6 @@ namespace catPc
 
             // Calculate location (etc. 1366 Width - form size...)
             this.Location = new Point(res.Width - Size.Width, res.Height - Size.Height);
-
             this.Shown += new EventHandler(Form1_Shown);
             keyboardStatus = "Enabled";
             mouseStatus = "Enabled";
@@ -92,10 +91,11 @@ namespace catPc
                 if (keyboardStatus == "Enabled")
                 {
                     showWindow.modeOn();
+                    AutoClosingMessageBox.Show();
                     string v = vkCode.ToString();
                     if (v == "32" || v == "13")
                     {
-                        MessageBox.Show("Cat Hack Attempt Blocked !");
+                        AutoClosingMessageBox.Show();
                     }
                 }
             }
@@ -141,6 +141,11 @@ namespace catPc
         private void label5_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+           
         }
     }
 }

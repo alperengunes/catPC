@@ -16,11 +16,6 @@ C:\Users\ronni\source\repos\catPc\catPc\obj\Debug\net6.0-windows\refint\catPc.dl
 C:\Users\ronni\source\repos\catPc\catPc\obj\Debug\net6.0-windows\catPc.pdb
 C:\Users\ronni\source\repos\catPc\catPc\obj\Debug\net6.0-windows\catPc.genruntimeconfig.cache
 C:\Users\ronni\source\repos\catPc\catPc\obj\Debug\net6.0-windows\ref\catPc.dll
-C:\Users\ronni\Documents\GitHub\catPC\catPc\bin\Debug\net6.0-windows\catPc.exe
-C:\Users\ronni\Documents\GitHub\catPC\catPc\bin\Debug\net6.0-windows\catPc.deps.json
-C:\Users\ronni\Documents\GitHub\catPC\catPc\bin\Debug\net6.0-windows\catPc.runtimeconfig.json
-C:\Users\ronni\Documents\GitHub\catPC\catPc\bin\Debug\net6.0-windows\catPc.dll
-C:\Users\ronni\Documents\GitHub\catPC\catPc\bin\Debug\net6.0-windows\catPc.pdb
 C:\Users\ronni\Documents\GitHub\catPC\catPc\obj\Debug\net6.0-windows\catPc.csproj.AssemblyReference.cache
 C:\Users\ronni\Documents\GitHub\catPC\catPc\obj\Debug\net6.0-windows\catPc.Form1.resources
 C:\Users\ronni\Documents\GitHub\catPC\catPc\obj\Debug\net6.0-windows\catPc.Properties.Resources.resources
@@ -29,6 +24,11 @@ C:\Users\ronni\Documents\GitHub\catPC\catPc\obj\Debug\net6.0-windows\catPc.Gener
 C:\Users\ronni\Documents\GitHub\catPC\catPc\obj\Debug\net6.0-windows\catPc.AssemblyInfoInputs.cache
 C:\Users\ronni\Documents\GitHub\catPC\catPc\obj\Debug\net6.0-windows\catPc.AssemblyInfo.cs
 C:\Users\ronni\Documents\GitHub\catPC\catPc\obj\Debug\net6.0-windows\catPc.csproj.CoreCompileInputs.cache
+C:\Users\ronni\Documents\GitHub\catPC\catPc\bin\Debug\net6.0-windows\catPc.exe
+C:\Users\ronni\Documents\GitHub\catPC\catPc\bin\Debug\net6.0-windows\catPc.deps.json
+C:\Users\ronni\Documents\GitHub\catPC\catPc\bin\Debug\net6.0-windows\catPc.runtimeconfig.json
+C:\Users\ronni\Documents\GitHub\catPC\catPc\bin\Debug\net6.0-windows\catPc.dll
+C:\Users\ronni\Documents\GitHub\catPC\catPc\bin\Debug\net6.0-windows\catPc.pdb
 C:\Users\ronni\Documents\GitHub\catPC\catPc\obj\Debug\net6.0-windows\catPc.dll
 C:\Users\ronni\Documents\GitHub\catPC\catPc\obj\Debug\net6.0-windows\refint\catPc.dll
 C:\Users\ronni\Documents\GitHub\catPC\catPc\obj\Debug\net6.0-windows\catPc.pdb
