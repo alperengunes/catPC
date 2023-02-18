@@ -6,4 +6,4 @@ Keyboard Lock and Cat Hack Protection
 
 # Space And Enter Key Attack Protection
 
-![Cat Attack Protection](https://i.imgur.com/5iy0jhh.png)
+![Cat Attack Protection](https://i.imgur.com/r5kiidK.png)
