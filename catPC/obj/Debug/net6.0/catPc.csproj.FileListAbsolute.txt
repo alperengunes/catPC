@@ -1,0 +1,15 @@
+C:\Users\ronni\source\repos\catPC\catPc\bin\Debug\net6.0\catPc.exe
+C:\Users\ronni\source\repos\catPc\catPc\bin\Debug\net6.0\catPc.deps.json
+C:\Users\ronni\source\repos\catPc\catPc\bin\Debug\net6.0\catPc.runtimeconfig.json
+C:\Users\ronni\source\repos\catPC\catPc\bin\Debug\net6.0\catPc.dll
+C:\Users\ronni\source\repos\catPC\catPc\bin\Debug\net6.0\catPc.pdb
+C:\Users\ronni\source\repos\catPC\catPc\obj\Debug\net6.0\catPc.csproj.AssemblyReference.cache
+C:\Users\ronni\source\repos\catPC\catPc\obj\Debug\net6.0\catPc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronni\source\repos\catPC\catPc\obj\Debug\net6.0\catPc.AssemblyInfoInputs.cache
+C:\Users\ronni\source\repos\catPC\catPc\obj\Debug\net6.0\catPc.AssemblyInfo.cs
+C:\Users\ronni\source\repos\catPC\catPc\obj\Debug\net6.0\catPc.csproj.CoreCompileInputs.cache
+C:\Users\ronni\source\repos\catPC\catPc\obj\Debug\net6.0\catPc.dll
+C:\Users\ronni\source\repos\catPC\catPc\obj\Debug\net6.0\refint\catPc.dll
+C:\Users\ronni\source\repos\catPC\catPc\obj\Debug\net6.0\catPc.pdb
+C:\Users\ronni\source\repos\catPc\catPc\obj\Debug\net6.0\catPc.genruntimeconfig.cache
+C:\Users\ronni\source\repos\catPc\catPc\obj\Debug\net6.0\ref\catPc.dll
