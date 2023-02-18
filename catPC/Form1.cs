@@ -19,9 +19,20 @@ namespace catPc
         {
             InitializeComponent();
         }
+        private void Form1_Shown(Object sender, EventArgs e)
+        {
+            Form1.ActiveForm.TopMost = true;
+        }
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //Get screen resolution
+            Rectangle res = Screen.PrimaryScreen.Bounds;
+
+            // Calculate location (etc. 1366 Width - form size...)
+            this.Location = new Point(res.Width - Size.Width, res.Height - Size.Height);
+
+            this.Shown += new EventHandler(Form1_Shown);
             keyboardStatus = "Enabled";
             mouseStatus = "Enabled";
             label1.Parent  = pictureBox1; 
@@ -118,6 +129,16 @@ namespace catPc
         }
 
         private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
         {
 
         }
