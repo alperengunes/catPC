@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ronni\\Documents\\GitHub\\catPC\\catPc\\catPc.csproj",
+      "projectUniqueName": "C:\\Users\\ronni\\Documents\\GitHub\\catPC-Keyboard-Lock\\catPc\\catPc.csproj",
       "projectName": "catPc",
-      "projectPath": "C:\\Users\\ronni\\Documents\\GitHub\\catPC\\catPc\\catPc.csproj",
+      "projectPath": "C:\\Users\\ronni\\Documents\\GitHub\\catPC-Keyboard-Lock\\catPc\\catPc.csproj",
       "packagesPath": "C:\\Users\\ronni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ronni\\Documents\\GitHub\\catPC\\catPc\\obj\\",
+      "outputPath": "C:\\Users\\ronni\\Documents\\GitHub\\catPC-Keyboard-Lock\\catPc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
