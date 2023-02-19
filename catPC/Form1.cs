@@ -91,11 +91,11 @@ namespace catPc
                 if (keyboardStatus == "Enabled")
                 {
                     showWindow.modeOn();
-                    AutoClosingMessageBox.Show("Cat Hack Attempt Blocked !", "Cat Hack Attempt Blocked !", 1);
+                    AutoClosingMessageBox.Show("Cat Hack Attempt Blocked !", "Cat Hack Attempt Blocked !", 100);
                     string v = vkCode.ToString();
                     if (v == "32" || v == "13")
                     {
-                        AutoClosingMessageBox.Show("Cat Hack Attempt Blocked !", "Cat Hack Attempt Blocked !", 1);
+                        AutoClosingMessageBox.Show("Cat Hack Attempt Blocked !", "Cat Hack Attempt Blocked !", 100);
                     }
                 }
             }
